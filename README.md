@@ -1,5 +1,10 @@
 Floresta Encantada - Jogo de Aventura Top-Down Um jogo de aventura em estilo top-down desenvolvido em Python com Pygame, onde o jogador explora diferentes mapas, coleta armas, derrota inimigos e enfrenta bosses finais.
 
+Feito por: Renan Tuma
+          Alyson Eugenio
+          Matheus Azevedo
+
+
 🎮 Sobre o Jogo O jogador começa em um mundo aberto (overworld) e deve entrar na casa para escolher sua arma: Espada (guerreiro) ou Cajado Mágico (mago). Cada arma desbloqueia áreas específicas:
 
 Espada: Arena do Guerreiro
