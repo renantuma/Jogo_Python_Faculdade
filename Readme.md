@@ -55,7 +55,7 @@ Certifique-se de que todos os arquivos estão na estrutura correta
 Execute o jogo:
 
 bash
-python main.py
+python game.py
 Ou se estiver em ambiente de desenvolvimento:
 
 bash
