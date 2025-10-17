@@ -28,15 +28,15 @@ OGG
 
 Execute o jogo:
 
-bash python main.py Ou se estiver em ambiente de desenvolvimento:
+bash python game.py Ou se estiver em ambiente de desenvolvimento:
 
-bash python3 main.py ⌨️ Controles do Jogo Movimento W / ↑ - Mover para cima
+bash python3 game.py ⌨️ Controles do Jogo Movimento W / ↑ - Mover para cima
 
-S / ↓ - Mover para baixo
+S - Mover para baixo
 
-A / ← - Mover para esquerda
+A  - Mover para esquerda
 
-D / → - Mover para direita
+D - Mover para direita
 
 Ações ESPAÇO - Atacar (quando tiver arma)
 
